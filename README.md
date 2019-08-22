@@ -4,7 +4,7 @@
 
 # TABLE:Online book portal 
 
-| s_no || Categeory || Popularity || Price|| newest_first|
+| s_no | Categeory | Popularity | Price| newest_first |
 |----||------------||-----------||-----||------------|
 | 1  ||COMIC STORY ||   4       || 450 || 19\08\2017 |
 | 2  ||GOVT EXAM   ||   3       ||678  || 16\09\2019 |
